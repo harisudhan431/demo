@@ -1,0 +1,27 @@
+body{
+    
+    background-color: lightsalmon;
+    background-image: url(./images.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+h1{
+    text-align: center;
+    color: orangered;
+}
+#zy{
+    text-align: center;
+    color:orangered;
+}
+.duke{
+    display: block;
+    color: blue;
+    text-align: center;
+
+}
+#ra{
+    display:block;
+    color:red;
+    text-align: center;
+}
